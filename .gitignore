@@ -7,4 +7,5 @@ __pycache__/
 .env
 **/.env
 profiles.yml
+.user.ymlprofiles.yml
 .user.yml
