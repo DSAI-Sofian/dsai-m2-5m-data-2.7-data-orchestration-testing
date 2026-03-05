@@ -6,3 +6,5 @@ output/*.db*
 __pycache__/
 .env
 **/.env
+profiles.yml
+.user.yml
